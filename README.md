@@ -1,6 +1,7 @@
 # Github
 
-*Руководство по началу использованию git, github*
+*Руководство по началу использованию git, github* 
+
 *Russian languege manual for start using git, github*
 
 ---
@@ -29,13 +30,7 @@
 
 [commit messeges](https://github.com/ojlogic/GIT_PROJ_1/blob/main/data/commit%20messeges.md)
 
+---
+
 # История изменений проекта
-graph LR
-    A[Загрузка новой версии руководства из notion] --> B[Добавленно приветствие в task.txt]
-    B --> C[Создание файла task.txt]
-    C --> D[Изменены ссылки в README.md]
-    D --> E[RESTRUCTURED]
-    D --> F[Добавить путь к файлу VCS в файле README.md]
-    E --> G[Начинать перелинковку в файле README.MD]
-    G --> H[Закончить перелинковку в файле README.MD]
-    H --> I[Финализировать перелинковку в файле README.MD]
+
