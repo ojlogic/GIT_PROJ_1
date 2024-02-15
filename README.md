@@ -1,6 +1,6 @@
 # Github
 
-[***V**ersion **C**ontrol **S**ystem*](/data/Version Control System.md)
+[***V**ersion **C**ontrol **S**ystem*](GIT_PROJ_1/data/Version Control System.md)
 
 [GIT БАЗА](Github%20410051ca2c15448791298defc792390d/GIT%20%D0%91%D0%90%D0%97%D0%90%20f8eb90aff3ea4165ac2eec5a42d139e7.md)
 
