@@ -1,5 +1,10 @@
 # Github
 
+*Руководство по началу использованию git, github*
+*Russian languege manual for start using git, github*
+
+---
+
 [***V**ersion **C**ontrol **S**ystem*](https://github.com/ojlogic/GIT_PROJ_1/blob/main/data/Version%20Control%20System.md)
 
 [GIT БАЗА](https://github.com/ojlogic/GIT_PROJ_1/blob/main/data/GIT%20%D0%91%D0%90%D0%97%D0%90.md)
@@ -23,3 +28,14 @@
 [git status](https://github.com/ojlogic/GIT_PROJ_1/blob/main/data/git%20status.md)
 
 [commit messeges](https://github.com/ojlogic/GIT_PROJ_1/blob/main/data/commit%20messeges.md)
+
+# История изменений проекта
+graph LR
+    A[Загрузка новой версии руководства из notion] --> B[Добавленно приветствие в task.txt]
+    B --> C[Создание файла task.txt]
+    C --> D[Изменены ссылки в README.md]
+    D --> E[RESTRUCTURED]
+    D --> F[Добавить путь к файлу VCS в файле README.md]
+    E --> G[Начинать перелинковку в файле README.MD]
+    G --> H[Закончить перелинковку в файле README.MD]
+    H --> I[Финализировать перелинковку в файле README.MD]
